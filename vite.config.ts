@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => {
         host: '0.0.0.0',
       },
       plugins: [react()],
+      base: '/RoPE/',
       resolve: {
         alias: {
           '@': path.resolve(__dirname, '.'),
