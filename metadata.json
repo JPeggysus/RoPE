@@ -1,0 +1,5 @@
+{
+  "name": "RoPE: The Manuscript",
+  "description": "An interactive academic explanation of Rotary Positional Embeddings, starting with tokenization and semantic embeddings.",
+  "requestFramePermissions": []
+}
